@@ -1,6 +1,6 @@
 # This is obsolete, go away! 
 
-![Go away](http://www.reactiongifs.com/r/bcga.gif)
+!(https://memegenerator.net/instance/73988569/rambo-thumbs-up-pythonpandas-is-easy-import-and-go)
 
 
 ## What is this repo?
