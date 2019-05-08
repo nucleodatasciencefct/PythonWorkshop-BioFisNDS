@@ -1,6 +1,6 @@
 ## Mastering Matplotlib
 
-Jupyter notebooks for my [matplotlib course][1] from [O'Reilly Media][2].
+Jupyter notebooks from [O'Reilly Media][2].
 
 ## Setting Up Your Environment
 
