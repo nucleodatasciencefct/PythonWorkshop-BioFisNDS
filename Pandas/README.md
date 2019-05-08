@@ -1,6 +1,6 @@
 ## What is this repo?
 
-![](/media/pythonpandas-is-easy-import-and-go.jpg)
+![](/media/Pandas-Cool.png)
 
 This repo contains a series of Learning Units. A Learning Unit is one hour of material
 meant to convey a few related concepts in the form of
