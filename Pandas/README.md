@@ -1,8 +1,3 @@
-# This is obsolete, go away! 
-
-![Easy](https://memegenerator.net/instance/73988569/rambo-thumbs-up-pythonpandas-is-easy-import-and-go)
-
-
 ## What is this repo?
 
 This repo contains a series of Learning Units. A Learning Unit is one hour of material
