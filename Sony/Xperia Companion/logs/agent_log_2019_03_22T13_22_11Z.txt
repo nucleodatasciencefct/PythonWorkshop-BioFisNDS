@@ -1,0 +1,9 @@
+7ms Loading images
+14ms Creating controls
+31ms Loading messages
+32ms getting messages from agent-en.xml
+3683ms FILE CreateFileW failed with 2 for C:\Users\tiago\Documents\Sony\Xperia Companion\xc-config.xml
+3683ms FILE CreateFileW failed with 2 for C:\Users\tiago\Documents\Sony\Xperia Companion\xc-pro-app-settings.xml
+3970ms AppSettings Loading app settings from disk
+3971ms AppSettings Saved app settings
+3973ms Started listening for devices

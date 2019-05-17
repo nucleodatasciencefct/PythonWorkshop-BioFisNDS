@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<analytics-config>
+	<!-- default (or empty), yes, no -->
+	<enabled>default</enabled>
+	<!-- default (or empty), ga -->
+	<type>default</type>
+	<!-- default (or empty) -->
+	<account>default</account>
+</analytics-config>

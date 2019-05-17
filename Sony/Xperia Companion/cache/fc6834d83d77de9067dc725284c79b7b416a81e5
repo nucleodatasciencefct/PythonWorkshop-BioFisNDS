@@ -1,0 +1,2207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<device-set>
+	<version>XC1</version>
+	<Revision-version>3</Revision-version>
+	<!-- <sharedpath>https://desktop-data.sonymobile.com/production/Databases_Prod/DeviceArtWork</sharedpath> -->
+	<sharedpath>https://dl-desktop-xcapps.sonymobile.com/production/xc/icons</sharedpath>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>SO-01K</model>
+		<marketingname>Xperia&#8482; XZ1 (SO-01K)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1053-BV</typeID>
+		<class>Phone/Android</class>
+        <icon>/XperiaXZ1/Xperia_XZ1.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G8341</model>
+		<marketingname>Xperia&#8482; XZ1 (G8341)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1054-BV</typeID>
+		<class>Phone/Android</class>
+        <icon>/XperiaXZ1/Xperia_XZ1.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G8342</model>
+		<marketingname>Xperia&#8482; XZ1 (G8342)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1050-BV</typeID>
+		<class>Phone/Android</class>
+        <icon>/XperiaXZ1/Xperia_XZ1.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>SOV36</model>
+		<marketingname>Xperia&#8482; XZ1 (SOV36)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1051-BV</typeID>
+		<class>Phone/Android</class>
+        <icon>/XperiaXZ1/Xperia_XZ1.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>701SO</model>
+		<marketingname>Xperia&#8482; XZ1 (701SO)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1052-BV</typeID>
+		<class>Phone/Android</class>
+        <icon>/XperiaXZ1/Xperia_XZ1.png</icon>
+	</device>
+	
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3311</model>
+		<marketingname>Xperia&#8482; L1 (G3311)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1042-BV</typeID>
+		<class>Phone/Android</class>
+		<!-- <icon>/XperiaXZs/Xperia_XZs.png</icon> -->
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3312</model>
+		<marketingname>Xperia&#8482; L1 (G3312)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1041-BV</typeID>
+		<class>Phone/Android</class>
+		<!-- <icon>/XperiaXZs/Xperia_XZs.png</icon> -->
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3313</model>
+		<marketingname>Xperia&#8482; L1 (G3313)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1040-BV</typeID>
+		<class>Phone/Android</class>
+		<!-- <icon>/XperiaXZs/Xperia_XZs.png</icon> -->
+	</device>
+	
+
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3412</model>
+		<marketingname>Xperia&#8482; XA1 Plus (G3412)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1071-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Plus/Xperia_XA1_Plus.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3416</model>
+		<marketingname>Xperia&#8482; XA1 Plus (G3416)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1070-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Plus/Xperia_XA1_Plus.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3421</model>
+		<marketingname>Xperia&#8482; XA1 Plus (G3421)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1072-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Plus/Xperia_XA1_Plus.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3423</model>
+		<marketingname>Xperia&#8482; XA1 Plus (G3423)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1073-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Plus/Xperia_XA1_Plus.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G3426</model>
+		<marketingname>Xperia&#8482; XA1 Plus (G3426)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1074-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Plus/Xperia_XA1_Plus.png</icon>
+	</device>
+
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>SO-02K</model>
+		<marketingname>Xperia&#8482; XZ1 Compact (SO-02K)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1060-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ1Compact/Xperia_XZ1_Compact.png</icon>
+	</device>
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G8441</model>
+		<marketingname>Xperia&#8482; XZ1 Compact (G8441)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1061-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ1Compact/Xperia_XZ1_Compact.png</icon>
+	</device>
+
+	<device>
+		<model>G3212</model>
+		<marketingname>Xperia&#8482; XA1 Ultra (G3212)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1012-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Ultra/Xperia_XA1_Ultra.png</icon>
+	</device>
+	<device>
+		<model>G3221</model>
+		<marketingname>Xperia&#8482; XA1 Ultra (G3221)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1010-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Ultra/Xperia_XA1_Ultra.png</icon>
+	</device>
+	<device>
+		<model>G3223</model>
+		<marketingname>Xperia&#8482; XA1 Ultra (G3223)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1014-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Ultra/Xperia_XA1_Ultra.png</icon>
+	</device>
+	<device>
+		<model>G3226</model>
+		<marketingname>Xperia&#8482; XA1 Ultra (G3226)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1013-CV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1Ultra/Xperia_XA1_Ultra.png</icon>
+	</device>
+	<device>
+		<model>G1109</model>
+		<marketingname>Xperia&#8482; Touch (G1109)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0933-BV</typeID>
+		<class>Projector/Android</class>
+		<icon>/XperiaTouch/Xperia-Touch.png</icon>
+	</device>
+
+	<device>
+    	<!-- Added 18/01/15 -->
+		<model>G1209</model>
+		<marketingname>Xperia&#8482; Hello! (G1209)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PS-0000-BV</typeID>
+		<class>Projector/Android</class>
+		<!-- <icon>/XperiaTouch/Xperia-Touch.png</icon> -->
+	</device>
+
+	<device>
+	<!-- Added 18/01/15 -->
+		<model>SO-03J</model>
+		<marketingname>Xperia&#8482; XZs (SO-03J)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1024-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZs/Xperia_XZs.png</icon>
+	</device>
+	<device>
+	<!-- Added 18/01/15 -->
+		<model>SOV35</model>
+		<marketingname>Xperia&#8482; XZs (SOV35)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1020-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZs/Xperia_XZs.png</icon>
+	</device>
+	<device>
+	<!-- Added 18/01/15 -->
+		<model>602SO</model>
+		<marketingname>Xperia&#8482; XZs (602SO)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1022-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZs/Xperia_XZs.png</icon>
+	</device>
+
+	<device>
+		<model>G8231</model>
+		<marketingname>Xperia&#8482; XZs (G8231)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1023-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZs/Xperia_XZs.png</icon>
+	</device>
+	<device>
+		<model>G8232</model>
+		<marketingname>Xperia&#8482; XZs (G8232)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1021-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZs/Xperia_XZs.png</icon>
+	</device>
+	<device>
+		<model>G8141</model>
+		<marketingname>Xperia&#8482; XZ Premium (G8141)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1032-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZPremium/Xperia_XZ_Premium.png</icon>
+	</device>
+	
+	<device>
+	<!-- Added 18/01/15 -->
+		<model>SO-04J</model>
+		<marketingname>Xperia&#8482; XZ Premium (SO-04J)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1030-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZPremium/Xperia_XZ_Premium.png</icon>
+	</device>
+	
+	<device>
+		<model>G8142</model>
+		<marketingname>Xperia&#8482; XZ Premium (G8142)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1031-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZPremium/Xperia_XZ_Premium.png</icon>
+	</device>
+	<device>
+		<model>G3112</model>
+		<marketingname>Xperia&#8482; XA1 (G3112)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1001-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1/Xperia_XA1.png</icon>
+	</device>
+	<device>
+		<model>G3116</model>
+		<marketingname>Xperia&#8482; XA1 (G3116)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1002-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1/Xperia_XA1.png</icon>
+	</device>
+	<device>
+		<model>G3121</model>
+		<marketingname>Xperia&#8482; XA1 (G3121)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1003-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1/Xperia_XA1.png</icon>
+	</device>
+	<device>
+		<model>G3123</model>
+		<marketingname>Xperia&#8482; XA1 (G3123)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1004-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1/Xperia_XA1.png</icon>
+	</device>
+	<device>
+		<model>G3125</model>
+		<marketingname>Xperia&#8482; XA1 (G3125)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-1005-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA1/Xperia_XA1.png</icon>
+	</device>
+	<device>
+		<model>SO-01J</model>
+		<marketingname>Xperia&#8482; XZ (SO-01J)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0982-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ/Xperia_XZ_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>SOV34</model>
+		<marketingname>Xperia&#8482; XZ (SOV34)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0984-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ/Xperia_XZ_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>601SO</model>
+		<marketingname>Xperia&#8482; XZ (601SO)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0983-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ/Xperia_XZ_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8331</model>
+		<marketingname>Xperia&#8482; XZ (F8331)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0980-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ/Xperia_XZ_160x270_B4M.png</icon>
+	</device>	
+	<device>
+		<model>F8332</model>
+		<marketingname>Xperia&#8482; XZ (F8332)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0981-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXZ/Xperia_XZ_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F5321</model>
+		<marketingname>Xperia&#8482; X Compact (F5321)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0970-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXCompact/Xperia_X_Compact_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>SO-02J</model>
+		<marketingname>Xperia&#8482; X Compact (SO-02J)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0971-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXCompact/Xperia_X_Compact_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3311</model>
+		<marketingname>Xperia&#8482; E5 (F3311)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0960-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE5/Xperia_E5_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3313</model>
+		<marketingname>Xperia&#8482; E5 (F3313)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0961-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE5/Xperia_E5_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3211</model>
+		<marketingname>Xperia&#8482; XA Ultra (F3211)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0950-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXAUltra/Xperia_XA_Ultra_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3212</model>
+		<marketingname>Xperia&#8482; XA Ultra (F3212)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0951-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXAUltra/Xperia_XA_Ultra_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3213</model>
+		<marketingname>Xperia&#8482; XA Ultra (F3213)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0954-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXAUltra/Xperia_XA_Ultra_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3215</model>
+		<marketingname>Xperia&#8482; XA Ultra (F3215)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0952-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXAUltra/Xperia_XA_Ultra_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3216</model>
+		<marketingname>Xperia&#8482; XA Ultra (F3216)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0953-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXAUltra/Xperia_XA_Ultra_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F5122</model>
+		<marketingname>Xperia&#8482; X (F5122)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0931-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaX/Xperia_X_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F5121</model>
+		<marketingname>Xperia&#8482; X (F5121)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0930-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaX/Xperia_X_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8132</model>
+		<marketingname>Xperia&#8482; X Performance (F8132)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0944-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXPerformance/Xperia_X_Performance_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8131</model>
+		<marketingname>Xperia&#8482; X Performance (F8131)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0940-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXPerformance/Xperia_X_Performance_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8131</model>
+		<marketingname>Xperia&#8482; X Performance (SO-04H)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0941-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXPerformance/Xperia_X_Performance_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8131</model>
+		<marketingname>Xperia&#8482; X Performance (SOV33)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0943-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXPerformance/Xperia_X_Performance_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F8131</model>
+		<marketingname>Xperia&#8482; X Performance (502SO)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0942-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXPerformance/Xperia_X_Performance_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3111</model>
+		<marketingname>Xperia&#8482; XA (F3111)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0920-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA/Xperia_XA_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3113</model>
+		<marketingname>Xperia&#8482; XA (F3113)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0922-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA/Xperia_XA_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3115</model>
+		<marketingname>Xperia&#8482; XA (F3115)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0923-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA/Xperia_XA_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3112</model>
+		<marketingname>Xperia&#8482; XA (F3112)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0921-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA/Xperia_XA_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>F3116</model>
+		<marketingname>Xperia&#8482; XA (F3116)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0924-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaXA/Xperia_XA_160x270_B4M.png</icon>
+	</device>
+	<device>
+		<model>E6853</model>
+		<marketingname>Xperia&#8482; Z5 Premium (E6853)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0911-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Premium/Xperia_Z5premium_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-03H</model>
+		<marketingname>Xperia&#8482; Z5 Premium (SO-03H)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0910-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Premium/Xperia_Z5premium_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6833</model>
+		<marketingname>Xperia&#8482; Z5 Premium Dual (E6833)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0912-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Premium/Xperia_Z5premium_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6883</model>
+		<marketingname>Xperia&#8482; Z5 Premium Dual (E6883)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0913-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Premium/Xperia_Z5premium_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6653</model>
+		<marketingname>Xperia&#8482; Z5 (E6653)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0900-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6603</model>
+		<marketingname>Xperia&#8482; Z5 (E6603)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0901-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>SOV32</model>
+		<marketingname>Xperia&#8482; Z5 (SOV32)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0903-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>501SO</model>
+		<marketingname>Xperia&#8482; Z5 (501SO) </marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0904-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-01H</model>
+		<marketingname>Xperia&#8482; Z5 (SO-01H) </marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0902-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6633</model>
+		<marketingname>Xperia&#8482; Z5 Dual (E6633)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0907-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6683</model>
+		<marketingname>Xperia&#8482; Z5 Dual (E6683)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0908-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5/Xperia_Z5_BFM_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5823</model>
+		<marketingname>Xperia&#8482; Z5 Compact (E5823)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0880-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Compact/Xperia_Z5Compact_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5803</model>
+		<marketingname>Xperia&#8482; Z5 Compact (E5803) </marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0881-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Compact/Xperia_Z5Compact_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-02H</model>
+		<marketingname>Xperia&#8482; Z5 Compact (SO-02H) </marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0882-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ5Compact/Xperia_Z5Compact_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5633</model>
+		<marketingname>Xperia&#8482; M5 Dual (E5633)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0870-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5653</model>
+		<marketingname>Xperia&#8482; M5 (E5653)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0874-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5663</model>
+		<marketingname>Xperia&#8482; M5 Dual (E5663)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0873-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5606</model>
+		<marketingname>Xperia&#8482; M5 (E5606)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0872-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5643</model>
+		<marketingname>Xperia&#8482; M5 Dual (E5643)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0871-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5603</model>
+		<marketingname>Xperia&#8482; M5 (E5603)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0875-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM5/Xperia_M5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5533</model>
+		<marketingname>Xperia&#8482; C5 Dual (E5533)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0893-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC5/Xperia_C5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5563</model>
+		<marketingname>Xperia&#8482; C5 Dual (E5563)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0891-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC5/Xperia_C5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5506</model>
+		<marketingname>Xperia&#8482; C5 (E5506)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0890-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC5/Xperia_C5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5503</model>
+		<marketingname>Xperia&#8482; C5 (E5503)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0894-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC5/Xperia_C5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5553</model>
+		<marketingname>Xperia&#8482; C5 (E5553)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0892-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC5/Xperia_C5_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-04G</model>
+		<marketingname>Xperia&#8482; A4 (SO-04G)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0816-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Compact/Xperia_Z3_Compact_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SOV31</model>
+		<marketingname>Xperia&#8482; Z4 (SOV31)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0792-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ4/Xperia_Z4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>402SO</model>
+		<marketingname>Xperia&#8482; Z4 (402SO)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0794-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ4/Xperia_Z4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-03G</model>
+		<marketingname>Xperia&#8482; Z4 (SO-03G)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0793-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ4/Xperia_Z4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6508</model>
+		<marketingname>Xperia&#8482; Z4v (E6508)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0841-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ4v/Xperia_Z4v_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6553</model>
+		<marketingname>Xperia&#8482; Z3+ (E6553)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0791-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Plus/Xperia_Z3plus_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E6533</model>
+		<marketingname>Xperia&#8482; Z3+ Dual (E6533)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0796-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Plus/Xperia_Z3plus_B4M_160X270.png</icon>
+	</device> 
+	<device>
+		<model>E5363</model>
+		<marketingname>Xperia&#8482; C4 Dual (E5363)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0864-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5333</model>
+		<marketingname>Xperia&#8482; C4 Dual (E5333)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0862-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5353</model>
+		<marketingname>Xperia&#8482; C4 (E5353)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0863-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5303</model>
+		<marketingname>Xperia&#8482; C4 (E5303)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0861-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5306</model>
+		<marketingname>Xperia&#8482; C4 (E5306)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0860-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E5343</model>
+		<marketingname>Xperia&#8482; C4 (E5343)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0865-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC4/Xperia_C4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D5788</model>
+		<marketingname>Xperia&#8482; J1 Compact (D5788)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0612-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaJ1Compact/Xperia_J1_Compact_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>E2043</model>
+		<marketingname>Xperia&#8482; E4g Dual (E2043)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0855-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4g/Xperia_E4g_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2033</model>
+		<marketingname>Xperia&#8482; E4g Dual (E2033)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0851-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4g/Xperia_E4g_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2003</model>
+		<marketingname>Xperia&#8482; E4g (E2003)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0850-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4g/Xperia_E4g_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2053</model>
+		<marketingname>Xperia&#8482; E4g (E2053)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0854-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4g/Xperia_E4g_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2006</model>
+		<marketingname>Xperia&#8482; E4g (E2006)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0852-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4g/Xperia_E4g_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2124</model>
+		<marketingname>Xperia&#8482; E4 Dual (E2124)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0634-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4/Xperia_E4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2115</model>
+		<marketingname>Xperia&#8482; E4 Dual (E2115)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0631-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4/Xperia_E4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2105</model>
+		<marketingname>Xperia&#8482; E4 (E2105)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0630-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4/Xperia_E4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2104</model>
+		<marketingname>Xperia&#8482; E4 (E2104)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0632-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE4/Xperia_E4_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2353</model>
+		<marketingname>Xperia&#8482; M4 Aqua (E2353)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0782-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2333</model>
+		<marketingname>Xperia&#8482; M4 Aqua Dual (E2333)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0781-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2303</model>
+		<marketingname>Xperia&#8482; M4 Aqua (E2303)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0780-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2306</model>
+		<marketingname>Xperia&#8482; M4 Aqua (E2306)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0785-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2312</model>
+		<marketingname>Xperia&#8482; M4 Aqua Dual (E2312)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0784-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>E2363</model>
+		<marketingname>Xperia&#8482; M4 Aqua Dual (E2363)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>PM-0787-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM4Aqua/Xperia_M4_Aqua_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP712</model>
+		<marketingname>Xperia&#8482; Z4 Tablet (SGP712)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>TS-0050-CV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ4Tablet/Xperia_Z4_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP771</model>
+		<marketingname>Xperia&#8482; Z4 Tablet (SGP771)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>TM-0061-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ4Tablet/Xperia_Z4_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP771</model>
+		<marketingname>Xperia&#8482; Z4 Tablet (SGP771)</marketingname>
+		<vendor>Sony</vendor>
+		<brand>Xperia</brand>
+		<typeID>TM-0061-AV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ4Tablet/Xperia_Z4_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+	    <model>SOT31</model>
+	    <marketingname>Xperia&#8482; Z4 Tablet (SOT31)</marketingname>
+	    <vendor>Sony</vendor>
+	    <brand>Xperia</brand>
+	    <typeID>TM-0062-BV</typeID>
+	    <class>SOMC Tablet/Android</class>
+	    <icon>/XperiaZ4Tablet/Xperia_Z4_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+	    <model>SO-05G</model>
+	    <marketingname>Xperia&#8482; Z4 Tablet (SO-05G)</marketingname>
+	    <vendor>Sony</vendor>
+	    <brand>Xperia</brand>
+	    <typeID>TM-0063-BV</typeID>
+	    <class>SOMC Tablet/Android</class>
+	    <icon>/XperiaZ4Tablet/Xperia_Z4_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D5803</model>
+		<marketingname>Xperia&#8482; Z3 Compact (D5803)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0810-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Compact/Xperia_Z3_Compact_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-02G</model>
+		<marketingname>Xperia&#8482; Z3 Compact (SO-02G)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0813-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Compact/Xperia_Z3_Compact_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D5833</model>
+		<marketingname>Xperia&#8482; Z3 Compact (D5833)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0812-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Compact/Xperia_Z3_Compact_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP621</model>
+		<marketingname>Xperia&#8482; Z3 Tablet Compact (SGP621)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0050-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ3TabletCompact/Xperia_Z3_Tablet_Compact_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SGP611</model>
+		<marketingname>Xperia&#8482; Z3 Tablet Compact (SGP611)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0040-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ3TabletCompact/Xperia_Z3_Tablet_Compact_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SGP612</model>
+		<marketingname>Xperia&#8482; Z3 Tablet Compact (SGP612)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0040-CV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ3TabletCompact/Xperia_Z3_Tablet_Compact_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SGP641</model>
+		<marketingname>Xperia&#8482; Z3 Tablet Compact (SGP641)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0053-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ3TabletCompact/Xperia_Z3_Tablet_Compact_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D6603</model>
+		<marketingname>Xperia&#8482; Z3 (D6603)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0800-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D6653</model>
+		<marketingname>Xperia&#8482; Z3 (D6653)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0806-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D6633</model>
+		<marketingname>Xperia&#8482; Z3 Dual (D6633)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0808-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>L55u</model>
+		<marketingname>Xperia&#8482; Z3 L55u (L55u)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0815-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D6616</model>
+		<marketingname>Xperia&#8482; Z3 (D6616)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0801-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3T-Mobile/Xperia_Z3_T-Mobile_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D6643</model>
+		<marketingname>Xperia&#8482; Z3 (D6643)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0804-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SOL26</model>
+		<marketingname>Xperia&#8482; Z3 (SOL26)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0803-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>L55t</model>
+		<marketingname>Xperia&#8482; Z3 (L55t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0814-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-01G</model>
+		<marketingname>Xperia&#8482; Z3 (SO-01G)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0802-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>401SO</model>
+		<marketingname>Xperia&#8482; Z3 (401SO)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0807-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3/Xperia_Z3_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>D2203</model>
+		<marketingname>Xperia&#8482; E3 (D2203)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0380-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE3/Xperia_E3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2212</model>
+		<marketingname>Xperia&#8482; E3 Dual (D2212)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0382-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE3/Xperia_E3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2202</model>
+		<marketingname>Xperia&#8482; E3 (D2202)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0381-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE3/Xperia_E3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2206</model>
+		<marketingname>Xperia&#8482; E3 (D2206)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0383-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE3/Xperia_E3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2243</model>
+		<marketingname>Xperia&#8482; E3 (D2243)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0385-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE3/Xperia_E3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SOL21</model>
+		<marketingname>Xperia&#8482; VL (SOL21)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0050-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaV/Xperia_V_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>LT25i</model>
+		<marketingname>Xperia&#8482; V (LT25)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0060-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaV/Xperia_V_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-01E</model>
+		<marketingname>Xperia&#8482; AX (SO-01E)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0070-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaV/Xperia_V_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>LT25c</model>
+		<marketingname>Xperia&#8482; VC (LT25)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0150-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaV/Xperia_V_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C1504</model>
+		<marketingname>Xperia&#8482; E (C1504)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0260-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE/Xperia_E_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C1505</model>
+		<marketingname>Xperia&#8482; E (C1505)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0250-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE/Xperia_E_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C1604</model>
+		<marketingname>Xperia&#8482; E dual (C1604)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0261-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE/Xperia_E_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C1605</model>
+		<marketingname>Xperia&#8482; E dual (C1605)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0251-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE/Xperia_E_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6506</model>
+		<marketingname>Xperia&#8482; ZL (C6506)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0230-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZL/Xperia_ZL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6503</model>
+		<marketingname>Xperia&#8482; ZL (C6503)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0240-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZL/Xperia_ZL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6502</model>
+		<marketingname>Xperia&#8482; ZL (C6502)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0340-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZL/Xperia_ZL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>L35h</model>
+		<marketingname>Xperia&#8482; ZL (L35h)</marketingname>
+		<CDFID>1270-8716</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0340-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZL/Xperia_ZL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6503</model>
+		<marketingname>Xperia&#8482; ZQ (C6503)</marketingname>
+		<CDFID>1270-0674</CDFID>
+		<CDFID>1270-0680</CDFID>
+		<CDFID>1270-0682</CDFID>
+		<CDFID>1270-0684</CDFID>
+		<CDFID>1270-5681</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0240-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZL/Xperia_ZL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-02E</model>
+		<marketingname>Xperia&#8482; Z (SO-02E)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0220-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6603</model>
+		<marketingname>Xperia&#8482; Z (C6603)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0270-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6602</model>
+		<marketingname>Xperia&#8482; Z (C6602)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0280-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>L36h</model>
+		<marketingname>Xperia&#8482; Z (L36h)</marketingname>
+		<CDFID>1270-9104</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0280-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6606</model>
+		<marketingname>Xperia&#8482; Z (C6606)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0520-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C6616</model>
+		<marketingname>Xperia&#8482; Z (C6616)</marketingname>
+		<CDFID>1275-6142</CDFID>
+		<CDFID>1275-6311</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0520-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ/Xperia_Z_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP311</model>
+		<marketingname>Xperia&#8482; Tablet Z (SGP311)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0000-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP312</model>
+		<marketingname>Xperia&#8482; Tablet Z (SGP312)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0000-CV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP321</model>
+		<marketingname>Xperia&#8482; Tablet Z (SGP321)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0030-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP341</model>
+		<marketingname>Xperia&#8482; Tablet Z (SGP341)</marketingname>
+		<CDFID>1273-1415</CDFID>
+		<CDFID>1274-1250</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>TM-0020-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SGP351</model>
+		<marketingname>Xperia&#8482; Tablet Z (SGP351)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0020-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-03E</model>
+		<marketingname>Xperia&#8482; Tablet Z (SO-03E)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0000-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon> /XperiaZTablet/Xperia_Z_Tablet_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C5302</model>
+		<marketingname>Xperia&#8482; SP (C5302)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0360-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C5303</model>
+		<marketingname>Xperia&#8482; SP (C5303)</marketingname>
+		<typeID>PM-0350-BV</typeID>
+		<vendor>Sony</vendor>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C5306</model>
+		<marketingname>Xperia&#8482; SP (C5306)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0390-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>M35h</model>
+		<marketingname>Xperia&#8482; SP (M35h)</marketingname>
+		<CDFID>1272-1714</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0360-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>M35c</model>
+		<marketingname>Xperia&#8482; SP (M35c)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0370-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>M35t</model>
+		<marketingname>Xperia&#8482; SP (M35t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0580-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaSP/Xperia_SP_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C2104</model>
+		<marketingname>Xperia&#8482; L (C2104)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0300-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaL/Xperia_L_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C2105</model>
+		<marketingname>Xperia&#8482; L (C2105)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0290-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaL/Xperia_L_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>S36h</model>
+		<marketingname>Xperia&#8482; L (S36h)</marketingname>
+		<CDFID>1272-6538</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0290-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaL/Xperia_L_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C5502</model>
+		<marketingname>Xperia&#8482; ZR (C5502)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0310-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZR/Xperia_ZR_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>M36h</model>
+		<marketingname>Xperia&#8482; ZR (M36h)</marketingname>
+		<CDFID>1273-0368</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0310-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZR/Xperia_ZR_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C5503</model>
+		<marketingname>Xperia&#8482; ZR (C5503)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0330-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZR/Xperia_ZR_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SO-04E</model>
+		<marketingname>Xperia&#8482; A (SO-04E)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0320-BV</typeID>
+		<icon>/XperiaZR/Xperia_ZR_B4M_160X270.png</icon>
+		<class>Phone/Android</class>
+	</device>
+	<device>
+		<model>SO-04E</model>
+		<marketingname>Xperia&#8482; feat. HATSUNE MIKU (SO-04E)</marketingname>
+		<CDFID>1276-9922</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0320-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZR/Xperia_ZR_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>SOL22</model>
+		<marketingname>Xperia&#8482; UL (SOL22)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0400-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaUL/Xperia_UL_B4M_160X270.png</icon>
+	</device>
+	<device>
+		<model>C1904</model>
+		<marketingname>Xperia&#8482; M (C1904)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0480-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM/Xperia_M_B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C1905</model>
+		<marketingname>Xperia&#8482; M (C1905)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0490-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM/Xperia_M_B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C2004</model>
+		<marketingname>Xperia&#8482; M dual (C2004)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0481-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM/Xperia_M_B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C2005</model>
+		<marketingname>Xperia&#8482; M dual (C2005)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0491-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM/Xperia_M_B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C2305</model>
+		<marketingname>Xperia&#8482; C (C2305)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0570-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC/Xperia_C-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C2304</model>
+		<marketingname>Xperia&#8482; C (C2304)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0710-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC/Xperia_C-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>S39h</model>
+		<marketingname>Xperia&#8482; C (S39h)</marketingname>
+		<CDFID>1275-3653</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0570-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC/Xperia_C-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C6802</model>
+		<marketingname>Xperia&#8482; Z Ultra (C6802)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0530-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>XL39h</model>
+		<marketingname>Xperia&#8482; Z Ultra (XL39h)</marketingname>
+		<CDFID>1275-3244</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0530-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C6833</model>
+		<marketingname>Xperia&#8482; Z Ultra (C6833)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0410-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C6843</model>
+		<marketingname>Xperia&#8482; Z Ultra (C6843)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0620-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C6806</model>
+		<marketingname>Xperia&#8482; Z Ultra (C6806)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0430-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>SGP412</model>
+		<marketingname>Xperia&#8482; Z Ultra (SG412)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0010-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>SOL24</model>
+		<marketingname>Xperia&#8482; Z Ultra (SOL24)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0700-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ-Ultra/Xperia_Z_Ultra-B4M-160x270.png</icon>
+	</device>
+	<device>
+		<model>C6903</model>
+		<marketingname>Xperia&#8482; Z1 (C6903)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0450-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>C6906</model>
+		<marketingname>Xperia&#8482; Z1 (C6906)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0460-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>C6902</model>
+		<marketingname>Xperia&#8482; Z1 (C6902)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0500-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>L39h</model>
+		<marketingname>Xperia&#8482; Z1 (L39h)</marketingname>
+		<CDFID>1276-8034</CDFID>
+		<CDFID>1277-2526</CDFID>
+		<vendor>Sony</vendor>
+		<typeID>PM-0500-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>L39t</model>
+		<marketingname>Xperia&#8482; Z1 (L39t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0600-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>L39u</model>
+		<marketingname>Xperia&#8482; Z1 (L39u)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0600-AV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>C6943</model>
+		<marketingname>Xperia&#8482; Z1 (C6943)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0650-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SO-01F</model>
+		<marketingname>Xperia&#8482; Z1 (SO-01F)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0440-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SOL23</model>
+		<marketingname>Xperia&#8482; Z1 (SOL23)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0470-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>C6916</model>
+		<marketingname>Xperia&#8482; Z1 S (C6916)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0590-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1/Xperia_Z1_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>SO-02F</model>
+		<marketingname>Xperia&#8482; Z1 f (SO-02F)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0610-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1-f/Xperia-Z1-compact-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SO-04F</model>
+		<marketingname>Xperia&#8482; A2 (SO-04F)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0611-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1-f/Xperia-Z1-compact-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D5503</model>
+		<marketingname>Xperia&#8482; Z1 Compact (D5503)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0640-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1-f/Xperia-Z1-compact-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>M51w</model>
+		<marketingname>Xperia&#8482; Z1 Compact (M51w)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0640-AV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ1-f/Xperia-Z1-compact-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2005</model>
+		<marketingname>Xperia&#8482; E1 (D2005)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0670-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE1/Xperia-E1-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2105</model>
+		<marketingname>Xperia&#8482; E1 Dual (D2105)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0671-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE1/Xperia-E1-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2004</model>
+		<marketingname>Xperia&#8482; E1 (D2004)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0672-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE1/Xperia-E1-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2104</model>
+		<marketingname>Xperia&#8482; E1 Dual (D2104)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0673-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE1/Xperia-E1-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2114</model>
+		<marketingname>Xperia&#8482; E1 Dual (D2114)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0674-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaE1/Xperia-E1-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>XM50t</model>
+		<marketingname>Xperia&#8482; T2 Ultra XM50t (XM50t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0761-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D5322</model>
+		<marketingname>Xperia&#8482; T2 Ultra dual (D5322)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0760-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>XM50h</model>
+		<marketingname>Xperia&#8482; T2 Ultra XM50h (XM50h)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0760-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D5303</model>
+		<marketingname>Xperia&#8482; T2 Ultra (D5303)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0762-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D5306</model>
+		<marketingname>Xperia&#8482; T2 Ultra (D5306)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0763-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D5316</model>
+		<marketingname>Xperia&#8482; T2 Ultra (D5316)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0764-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT2-Ultra/Xperia-T2-Ultra-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D6503</model>
+		<marketingname>Xperia&#8482; Z2 (D6503)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0740-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D6502</model>
+		<marketingname>Xperia&#8482; Z2 (D6502)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0744-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>L50w</model>
+		<marketingname>Xperia&#8482; Z2 (L50w)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0744-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D6543</model>
+		<marketingname>Xperia&#8482; Z2 (D6543)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0745-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SOL25</model>
+		<marketingname>Xperia&#8482; Z2 (SOL25)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0750-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D6563</model>
+		<marketingname>Xperia&#8482; Z2 (D6563)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0751-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SO-03F</model>
+		<marketingname>Xperia&#8482; Z2 (SO-03F)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0741-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>L50t</model>
+		<marketingname>Xperia&#8482; Z2 (L50t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0746-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D6708</model>
+		<marketingname>Xperia&#8482; Z3v (D6708)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0742-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ3Verizon/Xperia_Z3v_Verizon_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>L50u</model>
+		<marketingname>Xperia&#8482; Z2 L50u (L50u)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0747-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaZ2/Xperia-Sirius-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP521</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP521)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0040-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP511</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP511)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0020-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP512</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP512)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0030-CV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP512</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP512)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TS-0030-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP541</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP541)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0040-AV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP551</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP551)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0043-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SGP561</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SGP561)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0042-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SO-05F</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SO-05F)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0041-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>SOT21</model>
+		<marketingname>Xperia&#8482; Z2 Tablet (SOT21)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>TM-0044-BV</typeID>
+		<class>SOMC Tablet/Android</class>
+		<icon>/XperiaZ2-Tablet/Xperia-Castor-160x270-B4M.png</icon>
+	</device>
+	<device>
+		<model>D2305</model>
+		<marketingname>Xperia&#8482; M2 (D2305)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0720-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2302</model>
+		<marketingname>Xperia&#8482; M2 Dual (D2302)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0721-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>S50h</model>
+		<marketingname>Xperia&#8482; M2 Dual (S50h)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0721-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2303</model>
+		<marketingname>Xperia&#8482; M2 (D2303)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0722-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2306</model>
+		<marketingname>Xperia&#8482; M2 (D2306)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0723-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2316</model>
+		<marketingname>Xperia&#8482; M2 (D2316)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0724-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2403</model>
+		<marketingname>Xperia&#8482; M2 Aqua (D2403)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0770-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2406</model>
+		<marketingname>Xperia&#8482; M2 Aqua (D2406)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0771-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaM2/Xperia_M2_160x270.png</icon>
+	</device>
+	<device>
+		<model>D5103</model>
+		<marketingname>Xperia&#8482; T3 (D5103)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0730-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT3/Xperia-T3-160x270.png</icon>
+	</device>
+	<device>
+		<model>D5106</model>
+		<marketingname>Xperia&#8482; T3 (D5106)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0731-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT3/Xperia-T3-160x270.png</icon>
+	</device>
+	<device>
+		<model>D5102</model>
+		<marketingname>Xperia&#8482; T3 (D5102)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0732-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT3/Xperia-T3-160x270.png</icon>
+	</device>
+	<device>
+		<model>M50w</model>
+		<marketingname>Xperia&#8482; T3 (M50w)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0732-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaT3/Xperia-T3-160x270.png</icon>
+	</device>
+	<device>
+		<model>D2533</model>
+		<marketingname>Xperia&#8482; C3 (D2533)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0820-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC3/Xperia_C3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>S55t</model>
+		<marketingname>Xperia&#8482; C3 Dual (S55t)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0822-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC3/Xperia_C3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>S55u</model>
+		<marketingname>Xperia&#8482; C3 Dual (S55u)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0823-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC3/Xperia_C3_B4M_160x270.png</icon>
+	</device>
+	<device>
+		<model>D2502</model>
+		<marketingname>Xperia&#8482; C3 Dual (D2502)</marketingname>
+		<vendor>Sony</vendor>
+		<typeID>PM-0821-BV</typeID>
+		<class>Phone/Android</class>
+		<icon>/XperiaC3/Xperia_C3_B4M_160x270.png</icon>
+	</device>
+</device-set>
