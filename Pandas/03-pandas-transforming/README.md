@@ -1,7 +1,7 @@
 # Transforming DataFrames
 
 In this unit you will be learning how to transform DataFrames.
-This will give you the necessary skills to pre-process data, which you'll be doing all the time, before running actual machine learning algorithms.
+
 
 #### [Presentation](https://docs.google.com/presentation/d/1l1ycvuOcBXczBi2sxSOsDTIv0BGB_VvMq5QQS5-MDhg/edit#slide=id.g249ca54fa2_0_141)
 
