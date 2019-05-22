@@ -37,10 +37,6 @@ We will then use Pandas to read and preview a dataset, view the shape of the dat
 - [reset_index](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.reset_index.html)
 
 
-# Exercise
-
-Complete the exercises on the notebook inside the 'Practice' folder.
-
 # Dataset Source
 
 https://github.com/fivethirtyeight/data/tree/master/avengers
