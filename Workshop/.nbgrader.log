@@ -1,0 +1,39 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Library/Frameworks/Python.framework/Versions/3.7/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/simaonovais/Desktop/stuffToDoUnfortunatelyButWhatCanIDo/PythonWorkshop-BioFisNDS/Workshop
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/simaonovais/Library/Jupyter/runtime/nbserver-14786-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa
+[LabApp | INFO] Node v10.8.0
+    
+[LabApp | INFO] Build is up to date
+[LabApp | WARNING] 404 GET /api/contents/plots?1559263097294 (::1): No such file or directory: plots
+[LabApp | WARNING] No such file or directory: plots
+[LabApp | WARNING] 404 GET /api/contents/plots?1559263097294 (::1) 7.35ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Exercises.ipynb?content=0&1559263097296 (::1): No such file or directory: Exercises.ipynb
+[LabApp | WARNING] No such file or directory: Exercises.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Exercises.ipynb?content=0&1559263097296 (::1) 2.74ms referer=http://localhost:8888/lab
+[LabApp | WARNING] Notebook python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Kernel started: 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | INFO] Saving file at /python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Saving file at /python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Saving file at /python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] received signal 2, stopping
+[LabApp | INFO] Shutting down 1 kernel
+[LabApp | INFO] Kernel shutdown: 5f73b638-5e40-405b-8343-ccdf29f80115

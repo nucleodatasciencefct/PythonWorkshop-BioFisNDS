@@ -1,0 +1,190 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Library/Frameworks/Python.framework/Versions/3.7/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/simaonovais/Desktop/stuffToDoUnfortunatelyButWhatCanIDo/PythonWorkshop-BioFisNDS
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=85bbc5910b96ba4771df994ce2ab3ad028c13b26ea37f2dc
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/simaonovais/Library/Jupyter/runtime/nbserver-14851-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=85bbc5910b96ba4771df994ce2ab3ad028c13b26ea37f2dc
+[LabApp | WARNING] 404 GET /api/kernels/5f73b638-5e40-405b-8343-ccdf29f80115/channels?session_id=da1d7454-c9ea-4789-8df9-c4ab9b9cf80b&token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa (::1): Kernel does not exist: 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | WARNING] 404 GET /api/kernels/5f73b638-5e40-405b-8343-ccdf29f80115/channels?session_id=da1d7454-c9ea-4789-8df9-c4ab9b9cf80b&token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa (::1) 109.24ms referer=None
+[LabApp | WARNING] 404 GET /api/kernels/5f73b638-5e40-405b-8343-ccdf29f80115/channels?session_id=0aa95818-faeb-440d-8cdf-d5f01f3bf931&token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa (::1): Kernel does not exist: 5f73b638-5e40-405b-8343-ccdf29f80115
+[LabApp | WARNING] 404 GET /api/kernels/5f73b638-5e40-405b-8343-ccdf29f80115/channels?session_id=0aa95818-faeb-440d-8cdf-d5f01f3bf931&token=3f72ea556f18953d4789bc83b1e535301e5647453bdf16aa (::1) 8.68ms referer=None
+[LabApp | INFO] Node v10.8.0
+    
+[LabApp | INFO] Build is up to date
+[LabApp | WARNING] 404 GET /api/contents/python_workshop_opencv/OpenCV%20Tutorial%20-%20Image%20Processing.ipynb?content=0&1559263450251 (::1): No such file or directory: python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] No such file or directory: python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] 404 GET /api/contents/python_workshop_opencv/OpenCV%20Tutorial%20-%20Image%20Processing.ipynb?content=0&1559263450251 (::1) 22.34ms referer=http://localhost:8888/lab
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Kernel started: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | WARNING] delete /Workshop/python_workshop_opencv/media/Workshop Challenge Dataset
+[LabApp | WARNING] delete /Workshop/python_workshop_opencv/media/Others
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Starting buffering for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Kernel restarted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Restoring connection for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Replaying 7 buffered messages
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Starting buffering for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Kernel restarted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Restoring connection for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Replaying 7 buffered messages
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Kernel interrupted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Starting buffering for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Kernel restarted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Restoring connection for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Replaying 4 buffered messages
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[LabApp | INFO] Starting buffering for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Kernel restarted: 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 54150cf9-d8cf-40ae-85af-f48daf30eb1b
+[LabApp | INFO] Restoring connection for 54150cf9-d8cf-40ae-85af-f48daf30eb1b:016b2962-f478-49cc-ae4a-311ff791a8c5
+[LabApp | INFO] Replaying 7 buffered messages
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb is not trusted
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Tutorial - Image Processing.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Challenge.ipynb is not trusted
+[LabApp | INFO] Kernel started: 6e27d9e8-2ed3-49b7-aa45-fc511ef422ac
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 6e27d9e8-2ed3-49b7-aa45-fc511ef422ac
+[LabApp | WARNING] 404 GET /media/OpenCV.png (::1) 13.44ms referer=http://localhost:8888/lab
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | INFO] Creating new file in /
+[LabApp | INFO] Saving file at /requirements.txt
+[LabApp | INFO] Saving file at /requirements.txt
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | WARNING] 404 GET /media/Py_avatar.png (::1) 11.84ms referer=http://localhost:8888/lab
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | WARNING] delete /Workshop/python_workshop_opencv/FirstWrite.png
+[LabApp | WARNING] delete /Workshop/python_workshop_opencv/image1.jpg
+[LabApp | WARNING] delete /Workshop/python_workshop_opencv/Pandasnew.png
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Challenge Solution.ipynb is not trusted
+[LabApp | INFO] Kernel started: ace909a3-cc36-4216-bf6a-5baf3fb5a971
+[LabApp | INFO] Adapting to protocol v5.1 for kernel ace909a3-cc36-4216-bf6a-5baf3fb5a971
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge Solution.ipynb
+[LabApp | WARNING] Notebook Workshop/python_workshop_opencv/OpenCV Challenge Solution.ipynb is not trusted
+[LabApp | INFO] Saving file at /Workshop/python_workshop_opencv/OpenCV Challenge.ipynb
