@@ -1,0 +1,55 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Library/Frameworks/Python.framework/Versions/3.7/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/simaonovais/Desktop/stuffToDoUnfortunatelyButWhatCanIDo/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=8d161cc751ae11dc84af5eb1519a65297c6b6fa33fe23f77
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/simaonovais/Library/Jupyter/runtime/nbserver-14715-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8d161cc751ae11dc84af5eb1519a65297c6b6fa33fe23f77
+[LabApp | INFO] Node v10.8.0
+    
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_revenue_genre.png?content=0&1559262911614 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_revenue_genre.png
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_revenue_genre.png
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_revenue_genre.png?content=0&1559262911614 (::1) 24.47ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/vote_count.png?content=0&1559262911614 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/vote_count.png
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/vote_count.png
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/vote_count.png?content=0&1559262911614 (::1) 6.33ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS?1559262911612 (::1): No such file or directory: PythonWorkshop-BioFisNDS
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS?1559262911612 (::1) 7.20ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/budgetVsRevenue.png?content=0&1559262911615 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/budgetVsRevenue.png
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/budgetVsRevenue.png
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/budgetVsRevenue.png?content=0&1559262911615 (::1) 4.87ms referer=http://localhost:8888/lab
+[LabApp | INFO] Build is up to date
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/revenue_og_lang.png?content=0&1559262911615 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/revenue_og_lang.png
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/revenue_og_lang.png
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/revenue_og_lang.png?content=0&1559262911615 (::1) 5.47ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_movie_duration_by_year.png?content=0&1559262911615 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_movie_duration_by_year.png
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_movie_duration_by_year.png
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/plots/avg_movie_duration_by_year.png?content=0&1559262911615 (::1) 24.52ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/bootcamp/units/SLU04_Visualization/Learning%20notebook%20-%20SLU4%20-%20Data%20Visualization.ipynb?content=0&1559262911626 (::1): No such file or directory: bootcamp/units/SLU04_Visualization/Learning notebook - SLU4 - Data Visualization.ipynb
+[LabApp | WARNING] No such file or directory: bootcamp/units/SLU04_Visualization/Learning notebook - SLU4 - Data Visualization.ipynb
+[LabApp | WARNING] 404 GET /api/contents/bootcamp/units/SLU04_Visualization/Learning%20notebook%20-%20SLU4%20-%20Data%20Visualization.ipynb?content=0&1559262911626 (::1) 27.19ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Exercises.ipynb?content=0&1559262911627 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Exercises.ipynb
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Exercises.ipynb
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Exercises.ipynb?content=0&1559262911627 (::1) 5.87ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Learning.ipynb?content=0&1559262911629 (::1): No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Learning.ipynb
+[LabApp | WARNING] No such file or directory: PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Learning.ipynb
+[LabApp | WARNING] 404 GET /api/contents/PythonWorkshop-BioFisNDS/Workshop/python_workshop_matplotlib/Learning.ipynb?content=0&1559262911629 (::1) 3.61ms referer=http://localhost:8888/lab
+[LabApp | INFO] Kernel started: 3dbfd295-31b3-48c8-b39c-48a33d90b4e3
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 3dbfd295-31b3-48c8-b39c-48a33d90b4e3
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 3dbfd295-31b3-48c8-b39c-48a33d90b4e3
+[LabApp | INFO] Adapting to protocol v5.1 for kernel 3dbfd295-31b3-48c8-b39c-48a33d90b4e3
+[LabApp | INFO] Saving file at /Exercises.ipynb
+[LabApp | INFO] Saving file at /Exercises.ipynb
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] received signal 2, stopping
+[LabApp | INFO] Shutting down 1 kernel
+[LabApp | INFO] Kernel shutdown: 3dbfd295-31b3-48c8-b39c-48a33d90b4e3
